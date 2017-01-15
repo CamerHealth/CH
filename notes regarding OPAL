@@ -1,0 +1,8 @@
+The documentation online for the Opal Open Healthcare Django/AngularJS/Bootstrap is lacking.
+
+There are dependencies regarding testing the Opal framework, because of the AngularJS templates, and Bootstrap, there must be an internet connection.
+
+The Opal Framework requires Python 2.7 and Django 1.8.7.
+
+Do not forget to run the server, using
+-- "python2 manage.py runserver"
